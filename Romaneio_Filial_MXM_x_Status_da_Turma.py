@@ -8,7 +8,6 @@ import numpy as np
 #import warnings
 #warnings.filterwarnings("ignore", category=UserWarning)
 
-# Leitura dos arquivos
 df1 = pd.read_excel(r"C:.xlsx")
 df2 = pd.read_excel(r"C:.xlsx")
 
